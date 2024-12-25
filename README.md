@@ -1,4 +1,4 @@
-<h1 style='text-align':'center'>Sentiment Analysis Web Application</h1>
+<h1 style="text-align:center">Sentiment Analysis Web Application</h1>
 Project Overview
 This project is a complete end-to-end web application for Sentiment Analysis using machine learning. The application allows users to input feedback, processes it through a trained sentiment analysis model, and provides a classification as either positive or negative.
 
