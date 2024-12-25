@@ -1,4 +1,4 @@
-Sentiment Analysis Web Application
+<h1 style='text-align':'center'>Sentiment Analysis Web Application</h1>
 Project Overview
 This project is a complete end-to-end web application for Sentiment Analysis using machine learning. The application allows users to input feedback, processes it through a trained sentiment analysis model, and provides a classification as either positive or negative.
 
@@ -76,6 +76,7 @@ Improve the accuracy of the machine learning model using deep learning technique
 Add more languages to the sentiment analysis.
 Integrate additional visualizations to showcase predictions and performance metrics.
 Deploy the application using cloud services like AWS or Heroku.
+
 Screenshots
 ![Capture](https://github.com/user-attachments/assets/4666e13f-56e8-4f3c-8de7-5e2b59ec7a9f)
 Contributing
