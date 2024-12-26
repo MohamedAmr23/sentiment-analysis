@@ -78,7 +78,7 @@ Add more languages to the sentiment analysis.
 Integrate additional visualizations to showcase predictions and performance metrics.
 Deploy the application using cloud services like AWS or Heroku.
 
-Screenshots
+
 ![Capture](https://github.com/user-attachments/assets/4666e13f-56e8-4f3c-8de7-5e2b59ec7a9f)
 Contributing
 Feel free to submit issues or pull requests to improve the project!
